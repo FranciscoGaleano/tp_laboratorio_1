@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1525996544 source:d:\francisco galeano 1º h\examen 10 de mayo\parcial\avisos.c
+	<stdio.h>
+	<stdlib.h>
+	"avisos.h"
+	"clientes.h"
+
+1525996903 d:\francisco galeano 1º h\examen 10 de mayo\parcial\avisos.h
+
+1525996903 d:\francisco galeano 1º h\examen 10 de mayo\parcial\clientes.h
+
+1525995133 source:d:\francisco galeano 1º h\examen 10 de mayo\parcial\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+
+1525994220 source:d:\francisco galeano 1º h\examen 10 de mayo\parcial\informar.c
+	"clientes.h"
+	"avisos.h"
+	<stdio.h>
+	<stdlib.h>
+
+1525996695 source:d:\francisco galeano 1º h\examen 10 de mayo\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"clientes.h"
+	"avisos.h"
+	"informar.h"
+
+1525994326 d:\francisco galeano 1º h\examen 10 de mayo\parcial\informar.h
+	"clientes.h"
+	"avisos.h"
+
