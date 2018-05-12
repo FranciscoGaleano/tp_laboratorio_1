@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1526085472 source:d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 2\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1526081443 d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 2\tp_2_cascara\funciones.h
+
+1526081419 source:d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 2\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1526085566 source:d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 2\tp_2_cascara\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1526081710 d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 2\tp_2_cascara\persona.h
+
+1526083347 source:d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 2\tp_2_cascara\funcionesbasicas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
