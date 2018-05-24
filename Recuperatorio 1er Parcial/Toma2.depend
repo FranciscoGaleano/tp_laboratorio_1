@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1527183461 source:d:\vazthian\desktop\vzthn gln\facultad\toma2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"aviso.h"
+	"cliente.h"
+
+1527190209 source:d:\vazthian\desktop\vzthn gln\facultad\toma2\informar.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"aviso.h"
+	"informar.h"
+
+1527189484 d:\vazthian\desktop\vzthn gln\facultad\toma2\cliente.h
+
+1527190211 d:\vazthian\desktop\vzthn gln\facultad\toma2\aviso.h
+	"cliente.h"
+
+1527190211 source:d:\vazthian\desktop\vzthn gln\facultad\toma2\aviso.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"aviso.h"
+
+1527189483 source:d:\vazthian\desktop\vzthn gln\facultad\toma2\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"aviso.h"
+
+1527187788 d:\vazthian\desktop\vzthn gln\facultad\toma2\informar.h
+	"aviso.h"
+
+1527190211 source:d:\vazthian\desktop\vzthn gln\facultad\recuperatorio\recuperatorio 1er parcial\aviso.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"aviso.h"
+
+1527189484 d:\vazthian\desktop\vzthn gln\facultad\recuperatorio\recuperatorio 1er parcial\cliente.h
+
+1527190211 d:\vazthian\desktop\vzthn gln\facultad\recuperatorio\recuperatorio 1er parcial\aviso.h
+	"cliente.h"
+
+1527189483 source:d:\vazthian\desktop\vzthn gln\facultad\recuperatorio\recuperatorio 1er parcial\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"aviso.h"
+
+1527190209 source:d:\vazthian\desktop\vzthn gln\facultad\recuperatorio\recuperatorio 1er parcial\informar.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"aviso.h"
+	"informar.h"
+
+1527187788 d:\vazthian\desktop\vzthn gln\facultad\recuperatorio\recuperatorio 1er parcial\informar.h
+	"aviso.h"
+
+1527183461 source:d:\vazthian\desktop\vzthn gln\facultad\recuperatorio\recuperatorio 1er parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"aviso.h"
+	"cliente.h"
+
