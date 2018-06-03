@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1527695935 source:d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 3\cascara\tp_3_cascara\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"validaciones.h"
+
+1527695936 d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 3\cascara\tp_3_cascara\validaciones.h
+
+1527692630 source:d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 3\cascara\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1527696400 d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 3\cascara\tp_3_cascara\funciones.h
+
+1528048518 source:d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 3\tp 3 toma 2\cascara\tp_3_cascara\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"validaciones.h"
+
+1528047836 d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 3\tp 3 toma 2\cascara\tp_3_cascara\validaciones.h
+
+1528045704 source:d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 3\tp 3 toma 2\cascara\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"pelicula.h"
+	"validaciones.h"
+
+1528045603 d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 3\tp 3 toma 2\cascara\tp_3_cascara\funciones.h
+	"pelicula.h"
+
+1528043464 d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 3\tp 3 toma 2\cascara\tp_3_cascara\pelicula.h
+
+1528046355 source:d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 3\tp 3 toma 2\cascara\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"pelicula.h"
+
+1528048574 source:d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 3\tp 3 toma 2\cascara\tp_3_cascara\pelicula.c
+	"pelicula.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1528046355 source:d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 3\tp 3\cascara\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"pelicula.h"
+
+1528047836 d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 3\tp 3\cascara\tp_3_cascara\validaciones.h
+
+1528043464 d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 3\tp 3\cascara\tp_3_cascara\pelicula.h
+
+1528045704 source:d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 3\tp 3\cascara\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"pelicula.h"
+	"validaciones.h"
+
+1528045603 d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 3\tp 3\cascara\tp_3_cascara\funciones.h
+	"pelicula.h"
+
+1528048518 source:d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 3\tp 3\cascara\tp_3_cascara\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"validaciones.h"
+
+1528049681 source:d:\vazthian\desktop\vzthn gln\facultad\trabajos practicos programación\tp 3\tp 3\cascara\tp_3_cascara\pelicula.c
+	"pelicula.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
